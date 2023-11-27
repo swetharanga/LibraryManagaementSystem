@@ -12,6 +12,7 @@ The Library System project is a software system designed to manage the operation
 - Apache Ant (for building the project)
 - MySQL Database
 - Python (for running the setup script)
+- PyMySQL (for connecting python script to MySQL) (run pip install pymysql in command line)
 - Your preferred Integrated Development Environment (IDE), such as NetBeans, Eclipse, etc.
 
 ## Dependencies
