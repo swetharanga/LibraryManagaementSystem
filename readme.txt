@@ -47,7 +47,7 @@ Ensure you download the `rs2xml.jar` file and `mysql-connector-java` library bef
 
 ## Running the application
 
-1. Extract java files and open your IDE and navigate to the main class of the project (MainPage.java).
+1. Extract java files and open your IDE and navigate to the main class of the project (LibraryMainMenu.java).
 
 2. Run the main class. This should launch the Java Swing GUI for the Library System application.
 
